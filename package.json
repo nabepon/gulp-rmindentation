@@ -1,6 +1,6 @@
 {
   "name": "gulp-rmindentation",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "remove indent and CRLF for html strings",
   "main": "./index.js",
   "repository": {
