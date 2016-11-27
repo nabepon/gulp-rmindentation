@@ -1,0 +1,30 @@
+{
+  "name": "gulp-rmindentation",
+  "version": "0.0.3",
+  "description": "remove indent and CRLF for html strings",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nabepon/gulp-rmindentation.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "html",
+    "indent",
+    "remove",
+    "minify"
+  ],
+  "author": {
+    "name": "Takaaki Watanabe"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabepon/gulp-rmindentation/issues"
+  },
+  "homepage": "https://github.com/nabepon/gulp-rmindentation#readme",
+  "dependencies": {
+    "gulp-util": "3.0.7",
+    "through2": "2.0.1"
+  }
+}
